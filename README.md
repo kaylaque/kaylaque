@@ -19,11 +19,11 @@
 - 👀 I’m interested in Data Science and UI/UX
 - 🌱 I’m currently learning Data Science, UI/UX, and Front-End Website
 - 💞️ I’m looking to collaborate on fun and social-impact project around data science
+- ✉ Know me more from my [resume](https://drive.google.com/file/d/1kSqdAyNBYMcmv_EU9Qj5Q6oAGY3BJIbR/view?usp=sharing)
 - 📫 Please reach me out via email: kqueenazima@gmail.com
 
 <p align="justify">
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaylaque&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylaque&theme=cobalt&show_icons=true&layout=compact" alt="Top Languages">
   </a>
 </p>
