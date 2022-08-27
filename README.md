@@ -19,7 +19,7 @@
 - 👀 I’m interested in Data Science and UI/UX
 - 🌱 I’m currently learning Data Science, UI/UX, and Front-End Website
 - 💞️ I’m looking to collaborate on fun and social-impact project around data science
-- ✉ Know me more from my [resume](https://drive.google.com/file/d/1oyyhxmneyzaFVLHSQ4FGe82ABhSHtCFL/view?usp=sharing)
+- ✉ Know me more from my [resume](https://drive.google.com/file/d/1F1IjdwNPB4eei7qgerEf0b6Y_xwBJK1f/view?usp=sharing)
 - 📫 Please reach me out via email: kqueenazima@gmail.com
 
 <p align="justify">
