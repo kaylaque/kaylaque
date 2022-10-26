@@ -1,6 +1,4 @@
 # Official GitHub of Kayla Queenazima Santoso
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaylaque" alt="kaylaque" /> </p>
-
 <a href="https://www.linkedin.com/in/kayla-queenazima-santoso-1545201b4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
