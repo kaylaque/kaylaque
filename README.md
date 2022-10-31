@@ -19,9 +19,3 @@
 - 💞️ I’m looking to collaborate on fun and social-impact project around data science
 - ✉ Know me more from my [resume](https://drive.google.com/file/d/1F1IjdwNPB4eei7qgerEf0b6Y_xwBJK1f/view?usp=sharing)
 - 📫 Please reach me out via email: kqueenazima@gmail.com
-
-<p align="justify">
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylaque&theme=cobalt&show_icons=true&layout=compact" alt="Top Languages">
-  </a>
-</p>
