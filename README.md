@@ -15,6 +15,6 @@
 
 ### Hi! 👋 I'm Kayla!
 - 👀 I’m interested in Data Science especially AI in broad topic (social politic, health, environment, etc)
-- 💞️ I’m looking to collaborate on fun and social-impact project around data science
+- 💡 I’m looking to collaborate on fun and social-impact project around data science
 - ✉ Know me more from my [resume](https://drive.google.com/file/d/1TO6LiSz03KP8E4XdAS6YlB7uzshPsXkP/view?usp=share_link)
 - 📫 Please reach me out via email: kqueenazima@gmail.com
