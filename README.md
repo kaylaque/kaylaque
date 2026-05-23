@@ -10,5 +10,7 @@
 <br />
 
 ### Hi! 👋 I'm Kayla!
-- 👀 I’m interested in Data Science especially AI in broad topic (social politic, health, environment, etc)
+- 👩‍💻 I’m currently working as AI Engineer, developing solutions using LLM for on-prem use case. Experienced building AI-based solutions from computer vision, LLM, to speech recognition.
+- I'm open to a freelance/part-time for ML and AI engineering, focusing on AI design system and AI research
+- 🔬 Currently learning about finetuning to serve LLM and speech models, MLOps system, and computational biology.
 - 📫 Please reach me out via email: kqueenazima@gmail.com
